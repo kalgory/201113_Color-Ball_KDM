@@ -12,5 +12,6 @@ int main(){
     /*for(int temp =0 ; temp<ball_number ; temp++){
         cout<<v[temp][0]<<"\t"<<v[temp][1]<<endl;
     }*/
-    
+    cout<<"gitignore 수정"<<endl;
+        
 }
